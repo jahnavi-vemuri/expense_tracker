@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#0E0E0E</color>
+    <color name="blue">#0969DD</color>
+    <color name="grey">#DAD8D8</color>
+    <color name="light_background">#D8D5D5</color>
+    <color name="white">#FBFBFB</color>
+    <string name="app_name">Expense_Tracker</string>
+    <string name="rupee_symbol">₹</string>
+    <style name="Base.Theme.Expense_Tracker" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="SearchViewStyle" parent="Widget.AppCompat.SearchView">
+        <item name="android:queryBackground">@android:color/transparent</item>
+    </style>
+    <style name="Theme.Expense_Tracker" parent="Base.Theme.Expense_Tracker"/>
+</resources>
